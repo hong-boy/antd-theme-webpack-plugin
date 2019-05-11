@@ -1,4 +1,4 @@
-const { generateTheme } = require("antd-theme-generator");
+const { generateTheme } = require("antd-theme-generator-extra");
 const path = require("path");
 
 class AntDesignThemePlugin {
